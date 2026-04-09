@@ -1,4 +1,8 @@
 # AI Output Risk & Reliability Checker
+## 📄 Publication
+This project is published on Zenodo and available as a citable research output.
+🔗 https://doi.org/10.5281/zenodo.19478025
+
 
 ## Overview
 This project is an AI-based system that compares outputs from two language models (GPT and Grok) to identify epistemic divergence in biomedical documents.
